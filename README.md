@@ -70,6 +70,12 @@ Your weight in kg: 5
 Your BMI is 0.2
 ```
 
+## Errors
+
+### Could Not Find or Load Main Class Error
+
+[Could Not Find or Load Main Class Error](https://www.baeldung.com/java-could-not-find-load-main-class)
+
 ## References
 
 - [What does “Could not find or load main class” mean?](https://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean)
